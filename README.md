@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/saRvaGnyA/auditopia">
+  <a href="https://github.com/shpurohit/auditopia">
   </a>
   <br>
   Auditopia
